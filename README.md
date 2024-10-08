@@ -6,6 +6,6 @@
 Clone the repo and run the application !!
 
 Endpoints to try : 
-` ** / ** : welcome message
-` ** /greetme?name=yourname ** : greet with query parameter
-` ** /createuser ** : POST -> body is {" name ":" name " } 
+- **/** : welcome message
+- **/greetme?name=yourname** : greet with query parameter
+- **/createuser** : POST -> body is {" name ":" name " } 
